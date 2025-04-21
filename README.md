@@ -25,6 +25,7 @@ I'm a Master's student in Computer Science at Northeastern University with a pas
 - **Tools & Technologies:** Docker, Kubernetes, Git, PostgreSQL, MongoDB
 
 ## Projects
+- [AI Code Reviewer](https://github.com/TejasAdhikari/AI-Code-Reviewer): A full-stack web application automating the code review process.
 - [Panvas](https://github.com/TejasAdhikari/Panvas): A full-stack web application replicating Canvas LMS.
 - [KYC VerAuth](https://github.com/TejasAdhikari/KYC-VerAuth): A KYC authentication system using face verification.
 - [Stock Price Predictor](https://github.com/TejasAdhikari/Stock-Price-Predictor): A machine learning model to predict stock prices.
